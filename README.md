@@ -1,12 +1,12 @@
-# 65315A - INTRODUCTION TO SQL DATABASES (2025)
+# 65315A - Introduction To SQL Databases (2025)
 Courseware Access: https://www.softwaretutorialservices.com/course/65315a
 
-PREREQUISITES
-Basic understanding of Windows operating system
-Familiarity with general IT concepts
-No prior database experience required
+## Prerequisites:
+* Basic understanding of Windows operating system
+* Familiarity with general IT concepts
+* No prior database experience required
 
-COURSE OBJECTIVES
+## Course Objectives:
 After completing this course, you will be able to:
 Describe fundamental database concepts and SQL Server 2025 architecture
 Write T-SQL statements using DDL, DML, and DCL to create and manage databaseobjects

@@ -6,6 +6,7 @@ Courseware Access: https://www.softwaretutorialservices.com/course/65315a
 * Familiarity with general IT concepts
 * No prior database experience required
 
+
 ## Course Objectives:
 After completing this course, you will be able to:
 * Describe fundamental database concepts and SQL Server 2025 architecture

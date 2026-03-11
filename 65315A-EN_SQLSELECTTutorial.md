@@ -14,7 +14,7 @@
 ## Lab Setup Instructions
 
 1. Open SQL Server Management Studio (SSMS) or Visual Studio Code (MSSQL extension).
-2. Run the setup script `65315A_SQLSELECTTutorial_2026-03-09_v01.sql` to create the database and tables.
+2. Run the setup script `65315A-EN_SQLSELECTTutorial.sql` to create the database and tables.
 
 ---
 

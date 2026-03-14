@@ -1,5 +1,4 @@
 # 65315A - Introduction To SQL Databases (2025)
-Courseware Access: https://www.softwaretutorialservices.com/course/65315a
 
 ## Prerequisites:
 * Basic understanding of Windows operating system

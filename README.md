@@ -1,10 +1,11 @@
 # 65315A - Introduction To SQL Databases (2025)
-
+* **Audience Level:** Beginner
+* **Format:** Instructor-Led / Bootcamp
+  
 ## Prerequisites:
 * Basic understanding of Windows operating system
 * Familiarity with general IT concepts
 * No prior database experience required
-
 
 ## Course Objectives:
 After completing this course, you will be able to:

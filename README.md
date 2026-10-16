@@ -11,7 +11,7 @@
 
 This three-day instructor-led course provides an introductory foundation for anyone getting started with databases, including programmers, system administrators, and IT professionals expanding into database management. Students learn fundamental database concepts—including relational design, normalization, T-SQL querying, and core administrative objects—through guided demonstrations and hands-on labs using **SQL Server 2025** and SQL Server Management Studio (SSMS) 22.
 
-> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time, receive instant explanations of database concepts and T-SQL syntax, and get guided lab assistance whenever they need it.
+> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time to explore fundamental database concepts, clarify relational data modeling and normalization rules, and review T-SQL syntax and database objects.
 
 ---
 
